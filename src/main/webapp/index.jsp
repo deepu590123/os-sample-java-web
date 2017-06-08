@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>sandy OpenShift-1234567</h2>
+<h2>sandy OpenShift-12345</h2>
 </body>
 </html>
